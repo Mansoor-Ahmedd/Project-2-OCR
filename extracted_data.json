@@ -1,0 +1,35 @@
+{
+  "dates": [
+    "April 5, 2024"
+  ],
+  "amounts": [
+    202.0,
+    4.0,
+    42.0,
+    5.0,
+    202.0,
+    4.0,
+    500.0,
+    12.0,
+    4299.99
+  ],
+  "invoice_number": "INV-2024-042",
+  "persons": [
+    "John Miller"
+  ],
+  "organizations": [
+    "TechCorp Inc.",
+    "Oracle Parkway"
+  ],
+  "locations": [
+    "Redwood City",
+    "London"
+  ],
+  "ner_dates": [
+    "April 5, 2024"
+  ],
+  "money_ner": [
+    "4,299.99"
+  ],
+  "full_text": "\nINVOICE #INV-2024-042\nDate: April 5, 2024\nFrom: TechCorp Inc., 500 Oracle Parkway, Redwood City, CA\nTo: John Miller, 12 Baker Street, London\nTotal Amount: $4,299.99\n..."
+}
