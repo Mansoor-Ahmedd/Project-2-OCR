@@ -329,6 +329,7 @@ Test accuracy: 0.9892
 * TF‑IDF performs effectively for document text analysis
 * FastAPI simplifies ML model deployment
 * REST APIs enable real-world AI applications
+* http://127.0.0.1:8000/docs
 
 ---
 
